@@ -14,8 +14,8 @@ This is a solution to the <a href=https://www.frontendmentor.io/challenges/order
 
 ## Links
 
-* Solution Frontend Mentor: <a href=> View Solution </a>
-* Live Site: <a href= > click here </a>
+* Solution Frontend Mentor: <a href=https://www.frontendmentor.io/solutions/order-summary-card-challenge-jho2o0OaJ> View Solution </a>
+* Live Site: <a href=https://waleska-alexandra.github.io/order-summary-component-main/> click here </a>
 
 
 ## What is the process?
@@ -25,5 +25,5 @@ This is a solution to the <a href=https://www.frontendmentor.io/challenges/order
 * Responsive Design (Flex)
 
 ## Author
-* Frontend Mentor:
-* Twitter: 
+* Frontend Mentor: <a href=https://www.frontendmentor.io/profile/waleska-alexandra>@Waleska-Alexandra</a>
+* Twitter: @WaleskaRangelB / @waleskacode
