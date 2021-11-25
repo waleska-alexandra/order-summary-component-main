@@ -4,7 +4,7 @@ This is a solution to the <a href=https://www.frontendmentor.io/challenges/order
 
 ## Table of Contents
 
-* <a https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#screenshot>Screenshot </a>
+* <a href=https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#screenshot>Screenshot </a>
 * <a href=https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#links>Links </a>
 * <a href=https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#process>What is the process? </a>
 
