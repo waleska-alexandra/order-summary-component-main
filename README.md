@@ -4,9 +4,9 @@ This is a solution to the <a href=https://www.frontendmentor.io/challenges/order
 
 ## Table of Contents
 
-* <a href=https://github.com/waleska-code/order-summary-component-main/edit/main#screenshot>Screenshot </a>
-* <a href=https://github.com/waleska-code/order-summary-component-main/edit/main#Links>Links </a>
-* <a href=https://github.com/waleska-code/order-summary-component-main/edit/main#Process>What is the process? </a>
+* <a https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#screenshot>Screenshot </a>
+* <a href=https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#links>Links </a>
+* <a href=https://github.com/waleska-alexandra/order-summary-component-main/blob/main/README.md#process>What is the process? </a>
 
 ## Screenshot
 ![screenshot project frontend mentor](https://user-images.githubusercontent.com/76563412/143491421-59573a73-2b40-4412-85f9-2cf0cb0b1621.png)
