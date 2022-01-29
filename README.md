@@ -26,4 +26,4 @@ This is a solution to the <a href=https://www.frontendmentor.io/challenges/order
 
 ## Author
 * Frontend Mentor: <a href=https://www.frontendmentor.io/profile/waleska-alexandra>@Waleska-Alexandra</a>
-* Twitter: @WaleskaRangelB / @waleskacode
+* Twitter: @WaleskaRangelB / @rangelwaleska_
